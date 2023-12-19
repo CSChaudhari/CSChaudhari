@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSChaudhari
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Jav
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me 
 
