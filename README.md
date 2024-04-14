@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cschaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="cschaudhari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cschaudhari" alt="cschaudhari" /></a> </p>
-- 🌱 Web Application, Java Android App Developer
+
+- 🌱 **Web Application, Java Android App Developer**
 
 - 🌱Currently I am Working On **Smart Object Sorting Container Using ML**
 
