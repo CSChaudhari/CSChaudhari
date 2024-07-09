@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cschaudhari" alt="cschaudhari" /></a> </p>
 
-- 🌱 **Web Application, Java Android App Developer**
+- 🌱 **Web Application, Java Developer**
 
 - 🌱Currently I am Working On **Smart Object Sorting Container Using ML**
-
-- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Spring Boot, Java, React**
 
