@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaitanya chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya chaudhari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaitanya-chaudhari-534494226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya chaudhari" height="30" width="40" /></a>
 <a href="https://instagram.com/chaitanya_chaudhari91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaitanya_chaudhari91" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chaitanya_chaud2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanya_chaud2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanya_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanya_91" height="30" width="40" /></a>
